@@ -1,0 +1,3 @@
+[submodule "00-source-code"]
+	path = 00-source-code
+	url = git@github.com:academind/react-complete-guide-code.git
